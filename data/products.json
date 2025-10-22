@@ -1,0 +1,330 @@
+[
+  {
+    "name": "HP Pavilion Laptop",
+    "description": "14 inch laptop with 8GB RAM and 256GB SSD",
+    "category": "Laptops",
+    "brand": "HP",
+    "price": 499.99,
+    "stock": 25
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "description": "15 inch laptop with Intel i5 and 8GB RAM",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 549.99,
+    "stock": 15
+  },
+  {
+    "name": "Apple AirPods Pro",
+    "description": "Noise-cancelling earbuds",
+    "category": "Audio",
+    "brand": "Apple",
+    "price": 199.99,
+    "stock": 50
+  },
+  {
+    "name": "Logitech Wireless Mouse",
+    "description": "Compact wireless mouse",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "price": 29.99,
+    "stock": 100
+  },
+  {
+    "name": "Lenovo IdeaPad 3",
+    "description": "15.6 inch laptop with Ryzen 5 processor and 512GB SSD",
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "price": 579.99,
+    "stock": 18
+  },
+  {
+    "name": "Acer Aspire 5",
+    "description": "14 inch lightweight laptop with Intel i3 processor",
+    "category": "Laptops",
+    "brand": "Acer",
+    "price": 429.99,
+    "stock": 30
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "description": "Wireless noise-cancelling over-ear headphones",
+    "category": "Audio",
+    "brand": "Sony",
+    "price": 349.99,
+    "stock": 20
+  },
+  {
+    "name": "JBL Flip 6",
+    "description": "Portable Bluetooth speaker with powerful sound",
+    "category": "Audio",
+    "brand": "JBL",
+    "price": 119.99,
+    "stock": 40
+  },
+  {
+    "name": "Samsung Galaxy Buds 2 Pro",
+    "description": "Wireless earbuds with ANC and 360 audio",
+    "category": "Audio",
+    "brand": "Samsung",
+    "price": 229.99,
+    "stock": 45
+  },
+  {
+    "name": "Razer DeathAdder V2",
+    "description": "Ergonomic gaming mouse with RGB lighting",
+    "category": "Accessories",
+    "brand": "Razer",
+    "price": 69.99,
+    "stock": 75
+  },
+  {
+    "name": "Apple MacBook Air M2",
+    "description": "13.6 inch laptop with Apple M2 chip and 8GB RAM",
+    "category": "Laptops",
+    "brand": "Apple",
+    "price": 1199.99,
+    "stock": 12
+  },
+  {
+    "name": "HP Envy x360",
+    "description": "2-in-1 convertible laptop with touchscreen",
+    "category": "Laptops",
+    "brand": "HP",
+    "price": 899.99,
+    "stock": 10
+  },
+  {
+    "name": "Dell XPS 13",
+    "description": "Ultrabook with Intel i7 and InfinityEdge display",
+    "category": "Laptops",
+    "brand": "Dell",
+    "price": 1299.99,
+    "stock": 8
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "description": "Latest flagship smartphone with AMOLED display",
+    "category": "Mobiles",
+    "brand": "Samsung",
+    "price": 999.99,
+    "stock": 20
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "description": "Smartphone with A17 Bionic chip and titanium frame",
+    "category": "Mobiles",
+    "brand": "Apple",
+    "price": 1199.99,
+    "stock": 25
+  },
+  {
+    "name": "OnePlus 12",
+    "description": "Flagship smartphone with Snapdragon 8 Gen 3",
+    "category": "Mobiles",
+    "brand": "OnePlus",
+    "price": 899.99,
+    "stock": 22
+  },
+  {
+    "name": "Xiaomi Redmi Note 13",
+    "description": "Mid-range smartphone with 120Hz display",
+    "category": "Mobiles",
+    "brand": "Xiaomi",
+    "price": 299.99,
+    "stock": 40
+  },
+  {
+    "name": "ASUS ROG Strix G15",
+    "description": "Gaming laptop with RTX 4060 GPU",
+    "category": "Laptops",
+    "brand": "ASUS",
+    "price": 1499.99,
+    "stock": 6
+  },
+  {
+    "name": "LG UltraGear Monitor",
+    "description": "27 inch gaming monitor with 165Hz refresh rate",
+    "category": "Monitors",
+    "brand": "LG",
+    "price": 329.99,
+    "stock": 18
+  },
+  {
+    "name": "Samsung Odyssey G5",
+    "description": "32 inch curved gaming monitor",
+    "category": "Monitors",
+    "brand": "Samsung",
+    "price": 399.99,
+    "stock": 10
+  },
+  {
+    "name": "Logitech MX Keys",
+    "description": "Wireless keyboard with smart illumination",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "price": 99.99,
+    "stock": 55
+  },
+  {
+    "name": "Corsair K70 RGB",
+    "description": "Mechanical gaming keyboard with RGB backlight",
+    "category": "Accessories",
+    "brand": "Corsair",
+    "price": 139.99,
+    "stock": 35
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "description": "Smartwatch with health and fitness tracking",
+    "category": "Wearables",
+    "brand": "Apple",
+    "price": 399.99,
+    "stock": 30
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "description": "Smartwatch with AMOLED display and ECG sensor",
+    "category": "Wearables",
+    "brand": "Samsung",
+    "price": 349.99,
+    "stock": 28
+  },
+  {
+    "name": "Fitbit Charge 6",
+    "description": "Fitness tracker with heart rate monitor",
+    "category": "Wearables",
+    "brand": "Fitbit",
+    "price": 179.99,
+    "stock": 60
+  },
+  {
+    "name": "Anker PowerCore 10000",
+    "description": "Portable power bank with fast charging",
+    "category": "Accessories",
+    "brand": "Anker",
+    "price": 49.99,
+    "stock": 80
+  },
+  {
+    "name": "Google Pixel 8",
+    "description": "Smartphone with Google Tensor G3 chip",
+    "category": "Mobiles",
+    "brand": "Google",
+    "price": 899.99,
+    "stock": 20
+  },
+  {
+    "name": "Dell 24 Monitor",
+    "description": "Full HD LED monitor with slim bezels",
+    "category": "Monitors",
+    "brand": "Dell",
+    "price": 199.99,
+    "stock": 25
+  },
+  {
+    "name": "HP 27f Monitor",
+    "description": "27 inch IPS display with ultra-thin design",
+    "category": "Monitors",
+    "brand": "HP",
+    "price": 249.99,
+    "stock": 15
+  },
+  {
+    "name": "Bose QuietComfort 45",
+    "description": "Noise cancelling over-ear headphones",
+    "category": "Audio",
+    "brand": "Bose",
+    "price": 329.99,
+    "stock": 22
+  },
+  {
+    "name": "Sony SRS-XB13",
+    "description": "Compact portable Bluetooth speaker",
+    "category": "Audio",
+    "brand": "Sony",
+    "price": 59.99,
+    "stock": 65
+  },
+  {
+    "name": "HyperX Cloud II",
+    "description": "Gaming headset with 7.1 surround sound",
+    "category": "Audio",
+    "brand": "HyperX",
+    "price": 99.99,
+    "stock": 40
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "description": "13.5 inch laptop with sleek design and touchscreen",
+    "category": "Laptops",
+    "brand": "Microsoft",
+    "price": 1299.99,
+    "stock": 10
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Business laptop with Intel i7 and 16GB RAM",
+    "category": "Laptops",
+    "brand": "Lenovo",
+    "price": 1599.99,
+    "stock": 8
+  },
+  {
+    "name": "Apple Magic Mouse 2",
+    "description": "Wireless rechargeable mouse",
+    "category": "Accessories",
+    "brand": "Apple",
+    "price": 79.99,
+    "stock": 60
+  },
+  {
+    "name": "Razer BlackWidow V4",
+    "description": "Mechanical gaming keyboard with macro keys",
+    "category": "Accessories",
+    "brand": "Razer",
+    "price": 169.99,
+    "stock": 25
+  },
+  {
+    "name": "Logitech C920 HD Pro",
+    "description": "1080p webcam for streaming and video calls",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "price": 89.99,
+    "stock": 45
+  },
+  {
+    "name": "Samsung T7 Portable SSD",
+    "description": "1TB external SSD with USB-C connectivity",
+    "category": "Storage",
+    "brand": "Samsung",
+    "price": 129.99,
+    "stock": 50
+  },
+  {
+    "name": "Seagate Expansion 2TB",
+    "description": "External hard drive for backup and storage",
+    "category": "Storage",
+    "brand": "Seagate",
+    "price": 89.99,
+    "stock": 70
+  },
+  {
+    "name": "Sandisk Ultra 128GB USB",
+    "description": "High-speed USB 3.0 flash drive",
+    "category": "Storage",
+    "brand": "Sandisk",
+    "price": 24.99,
+    "stock": 120
+  },
+  {
+    "name": "Apple iPad Air 5",
+    "description": "10.9 inch tablet with M1 chip",
+    "category": "Tablets",
+    "brand": "Apple",
+    "price": 599.99,
+    "stock": 18
+  }
+]
