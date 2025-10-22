@@ -307,7 +307,7 @@ pip install --upgrade -r requirements.txt
 
 ## 👨‍💻 Author
 
-**Abdul Moiz Bhatti**  
+**ALI ASJAD AWAN**  
 E-commerce Backend Design — Internal Exam Project  
 Built using **FastAPI, Python, PyMongo, and MongoDB**.
 
