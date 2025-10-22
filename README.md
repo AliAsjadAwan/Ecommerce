@@ -310,9 +310,3 @@ pip install --upgrade -r requirements.txt
 **ALI ASJAD AWAN**  
 E-commerce Backend Design — Internal Exam Project  
 Built using **FastAPI, Python, PyMongo, and MongoDB**.
-
----
-
-## 📄 License
-
-MIT License - Free to use for educational and learning purposes.
